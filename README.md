@@ -5,5 +5,5 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/alirezaiii">
 
-![Ali's Stats](https://github-readme-stats.vercel.app/api?username=alirezaeiii&theme=dracula&show_icons=true&count_private=true)|![Ali's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaeiii&theme=dracula)"
+![Ali's Stats](https://github-readme-stats.vercel.app/api?username=alirezaeiii&theme=dracula&show_icons=true&count_private=true)|![Ali's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaeiii&theme=dracula)
 |-|-|
